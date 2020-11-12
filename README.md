@@ -25,6 +25,8 @@ CREATE TABLE gender_inequality (
   labor_force_participation_rate_male INT
 );
 
+--------------------------------------------------------------------------------------------------------------------
+
 CREATE TABLE gender_development (
   
   id INT PRIMARY KEY,
@@ -57,6 +59,8 @@ CREATE TABLE gender_development (
 	
   estimated_gross_national_income_per_capita_male INT
 );
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SELECT * FROM gender_inequality;
 
